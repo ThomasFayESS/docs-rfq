@@ -1,0 +1,3 @@
+eval "./ICD"
+eval "./SysReq"
+eval "./RackSpec"
